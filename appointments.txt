@@ -1,0 +1,6 @@
+Patient Name: hamza
+Age: 55
+Phone Number: 5345456454
+Preferred Time: 6
+Preferred Date: 2024-02-25
+

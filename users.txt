@@ -1,0 +1,3 @@
+Afnan,8459039945,afnan@123,afnan786
+hamza,98565555555555,hamza@gmail.com,12345
+Demo,123456,demo@gmail.com,demo123
